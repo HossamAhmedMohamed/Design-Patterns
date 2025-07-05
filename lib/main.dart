@@ -1,5 +1,5 @@
-import 'package:design_patterns/patterns/observer_pattern.dart';
-import 'package:design_patterns/patterns/observer_ui.dart';
+import 'package:design_patterns/patterns/observer_pattern/observer_pattern.dart';
+import 'package:design_patterns/patterns/observer_pattern/observer_ui.dart';
 import 'package:flutter/material.dart';
 
 void main() {
